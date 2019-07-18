@@ -1,2 +1,2 @@
 # checkDuplicates
-Code to check duplicate numbers in an array
+Code to check duplicate numbers entered in an array entered from HTML
